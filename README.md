@@ -1,5 +1,3 @@
-
-
 ## All about me.
 
 Welcome to my page!
